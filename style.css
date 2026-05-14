@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+
+canvas {
+  border: 2px solid black;
+  background: white;
+  touch-action: none;
+}
+
+.buttons {
+  margin-top: 12px;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+textarea {
+  display: block;
+  width: 800px;
+  height: 120px;
+  margin-top: 16px;
+  font-size: 18px;
+}
